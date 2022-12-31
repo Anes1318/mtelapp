@@ -16,6 +16,9 @@ class _BottomNavigationScreenState extends State<BottomNavigationScreen> {
   final List<Widget> _pages = [
     MarketiScreen(),
     MapeScreen(),
+    MapeScreen(),
+    MapeScreen(),
+    MapeScreen(),
   ];
 
   int _selectedIndex = 0;
